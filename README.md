@@ -1,5 +1,10 @@
 # Convert Myisam To Innodb WP Plugin
 Using this plugin we can convert MyISAM storage engine type to InnoDB.
+# Plugin Features
+1. Ability to select all tables at once
+2. Manage the number of simultaneous requests when sending commands
+3. Floating Apply Command button
+4. Added Settings button on the plugins page for faster access
 # افزونه وردپرس تبدیل جداول دیتابیس
 با استفاده از این افزونه می‌توانیم نوع موتور ذخیره‌سازی MyISAM را به InnoDB تبدیل کنیم.
 # امکانات افزونه
